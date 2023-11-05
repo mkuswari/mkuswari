@@ -1,6 +1,6 @@
 ### Hi there, I'm [Muhammad Kuswari](https://github.com/mkuswari)! 👋
 
-- 🔭 I’m currently Working at [PT. Castellum Digital Indonesia](https://castellumdigital.id/) as a Fullstack Engineer.
+- 🔭 I’m currently Work as a Frontend Developer.
 - 🌱 I’m currently code Laravel, Codeigniter, VueJS, ReactJS, NodeJS, React Native, & Flutter.
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/mkuswari_) or [Facebook](https://facebook.com/muhkuswari)
 - 😄 Pronouns: he/him.
